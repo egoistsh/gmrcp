@@ -1,0 +1,2 @@
+random = com.billy.gmrpc.cluster.loadbalance.strategy.RandomLoadBalance
+round = com.billy.gmrpc.cluster.loadbalance.strategy.RoundLoadBalance

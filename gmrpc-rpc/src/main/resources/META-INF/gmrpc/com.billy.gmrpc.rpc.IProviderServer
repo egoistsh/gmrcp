@@ -1,0 +1,1 @@
+netty = com.billy.gmrpc.rpc.netty.server.NettyProviderServer
